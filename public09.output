@@ -1,0 +1,125 @@
+% 
+% mkfs
+
+% mkdir d1
+
+% mkdir d2
+
+% mkdir d3
+
+% mkdir d4
+
+% mkdir d5
+
+% mkdir d6
+
+% mkdir d7
+
+% touch f1
+
+% touch f2
+
+% touch f3
+
+% touch f4
+
+% touch f5
+
+% touch f6
+
+% touch f7
+
+% cd d1
+
+% mkdir r1
+
+% mkdir r2
+
+% mkdir r3
+
+% mkdir r4
+
+% mkdir r5
+
+% mkdir r6
+
+% mkdir r7
+
+% touch l1
+
+% touch l2
+
+% touch l3
+
+% touch l4
+
+% touch l5
+
+% touch l6
+
+% touch l7
+
+% cd r1
+
+% touch e1
+
+% mkdir t1
+
+% cd ..
+
+% cd r2
+
+% touch e2
+
+% mkdir t2
+
+% cd ..
+
+% cd r3
+
+% touch e3
+
+% mkdir t3
+
+% cd /
+
+% ls
+d1/
+d2/
+d3/
+d4/
+d5/
+d6/
+d7/
+f1
+f2
+f3
+f4
+f5
+f6
+f7
+
+% rm d1
+
+% ls
+d2/
+d3/
+d4/
+d5/
+d6/
+d7/
+f1
+f2
+f3
+f4
+f5
+f6
+f7
+
+% rmfs
+
+% exit
+
+% 
+
+Looks like simulate() does not have any memory leaks.

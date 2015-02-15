@@ -1,0 +1,42 @@
+% 
+% mkfs
+
+% mkdir d1
+
+% mkdir d2
+
+% touch f1
+
+% touch f2
+
+% ls
+d1/
+d2/
+f1
+f2
+
+% rmfs
+
+% mkfs
+
+% mkdir d3
+
+% mkdir d4
+
+% touch f3
+
+% touch f4
+
+% ls
+d3/
+d4/
+f3
+f4
+
+% rmfs
+
+% exit
+
+% 
+
+Looks like simulate() does not have any memory leaks.

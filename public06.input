@@ -1,0 +1,16 @@
+set verbose
+mkfs
+mkdir d1
+mkdir d2
+touch f1
+touch f2
+ls
+rmfs
+mkfs
+mkdir d3
+mkdir d4
+touch f3
+touch f4
+ls
+rmfs
+exit

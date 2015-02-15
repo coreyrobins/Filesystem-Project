@@ -1,0 +1,19 @@
+set verbose
+mkfs
+mkdir d1
+mkdir d2
+mkdir d3
+cd d2
+mkdir d2d1
+mkdir d2d2
+mkdir d2d3
+cd d2d3
+touch a
+touch b
+touch c
+mkdir d3d1
+mkdir d3d2
+mkdir d3d4
+rename d3d4 d3d3
+rmfs
+exit
