@@ -1,5 +1,7 @@
 CMSC 216, Spring 2012, Project #4, Public Tests
 
+This project emulates the basic functionality of a filesystem, written in C. The main code is contained in the file "filesystem.c".
+
 * Overview:
 
   There are 9 public tests. The first five public tests (public01 -
